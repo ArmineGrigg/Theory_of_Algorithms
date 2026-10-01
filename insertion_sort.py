@@ -1,6 +1,3 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-print("Start small. Ship something.")
 def insertionsort(lst):
   for i in range(1, len(lst)):
     key = lst[i]
